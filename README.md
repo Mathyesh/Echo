@@ -4,7 +4,7 @@ Voice-Controlled AI Assistant with OpenAI GPT-3 and Speech Recognition
 
 Overview:
 
-This project demonstrates the creation of a voice-controlled AI assistant using Python, the OpenAI GPT-3 model, and the SpeechRecognition library. The AI assistant, named "Echo," listens to voice commands, processes them using speech recognition, and responds with text-to-speech capabilities.
+This project demonstrates the creation of a voice-controlled AI assistant using Python, the OpenAI GPT-3 model, and the SpeechRecognition library. The AI assistant, named "Echo", listens to voice commands, processes them using speech recognition, and responds with text-to-speech capabilities.
 
 
 Features:

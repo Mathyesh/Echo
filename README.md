@@ -23,14 +23,17 @@ Pyttsx3 library (pip install pyttsx3)
 
 Setup:
 1. Clone this repository to your local machine:-
+
 bash:
 git clone https://github.com/yourusername/voice-assistant.git
 
 2. Create a .env file in the project directory and add your OpenAI API key:-
+
 env:
 OPENAI_KEY=your_api_key_here
 
 3. Install the required Python libraries:-
+
 bash:
 pip install SpeechRecognition pyttsx3 
 

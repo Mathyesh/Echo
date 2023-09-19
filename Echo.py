@@ -6,7 +6,7 @@ import openai
 
 # Load your OpenAI API key from a .env file
 load_dotenv()
-OPENAI_KEY = os.getenv('OPENAI_KEY')
+OPENAI_KEY = os.getenv('OPENAI_KEY')   //Not necessary since openAI API key loaded from .env file in the previous line. Can neglect line 9 and 10 
 openai.api_key = ""  //Enter OpenAI API key (obtain one from OpenAI)
 
 # Function to convert text to speech

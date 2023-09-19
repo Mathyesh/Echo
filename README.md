@@ -19,7 +19,7 @@ Prerequisites:
 Before running the project, make sure you have the following installed:-
 
 1. Python 3.x
-2. 2. OpenAI API key (obtain one from OpenAI)
+2. OpenAI API key (obtain one from OpenAI)
 3. SpeechRecognition library (pip install SpeechRecognition)
 4. Pyttsx3 library (pip install pyttsx3)
 

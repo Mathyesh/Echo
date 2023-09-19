@@ -43,3 +43,8 @@ pip install SpeechRecognition pyttsx3
 
 
 You can customize the assistant's name, initial greeting, and other parameters in the code.
+
+
+NOTE:
+
+The API key used in the demonstration video is no longer active and will not have access to the OpenAI GPT-3 model. To use this project with your own OpenAI API key, please follow the setup instructions in the README and replace the placeholder `your_api_key_here` with your valid API key.

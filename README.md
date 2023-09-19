@@ -7,18 +7,21 @@ This project demonstrates the creation of a voice-controlled AI assistant using 
 
 
 Features:
-Voice-controlled interaction with an AI assistant.
-Real-time conversation with the AI.
-Utilizes OpenAI's GPT-3 for generating responses.
-Voice input and output using Python libraries.
+
+1. Voice-controlled interaction with an AI assistant.
+2. Real-time conversation with the AI.
+3. Utilizes OpenAI's GPT-3 for generating responses.
+4. Voice input and output using Python libraries.
 
 
 Prerequisites:
+
 Before running the project, make sure you have the following installed:-
-Python 3.x
-OpenAI API key (obtain one from OpenAI)
-SpeechRecognition library (pip install SpeechRecognition)
-Pyttsx3 library (pip install pyttsx3)
+
+1. Python 3.x
+2. 2. OpenAI API key (obtain one from OpenAI)
+3. SpeechRecognition library (pip install SpeechRecognition)
+4. Pyttsx3 library (pip install pyttsx3)
 
 
 Setup:

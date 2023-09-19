@@ -1,5 +1,7 @@
 # Echo
 
+https://github.com/Mathyesh/Echo/assets/96338390/90e9d3c6-8430-4ec8-8f21-ea93488aa602
+
 Voice-Controlled AI Assistant with OpenAI GPT-3 and Speech Recognition
 
 Overview:
